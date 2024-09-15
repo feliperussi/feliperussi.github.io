@@ -1,38 +1,75 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Andrés Felipe Arias Russi",
+    "label": "Computer Science and Systems Engineering, and Mathematics Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "af [dot] ariasr [at] uniandes [dot] edu [dot] co",
+    "url": "https://feliperussi.github.io/al-folio/"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
+    "work": [
+      {
+        "name": "Cornell Tech",
+        "position": "Research Intern - Human-Robot Interaction",
+        "url": "https://tech.cornell.edu/",
+        "startDate": "2024-06-03",
+        "endDate": "2024-08-31",
+        "summary": "Contributed to the development of an interface designed to connect with a crash cart, aiming to assist healthcare workers in emergencies. Conducted user tests to evaluate the interface's effectiveness and worked on integrating semi-autonomous control for the robot in a 'Wizard of Oz' setup.",
+        "highlights": [
+          "HRI",
+          "Communication and routing protocols",
+          "IP-based communication framework",
+          "LLMs",
+          "Svelte",
+          "FastAPI",
+          "ROS",
+          "Machine Learning"
+        ]
+      },
+      {
+        "name": "Universidad de los Andes",
+        "position": "Teaching Assistant - Algorithm Design and Analysis",
+        "url": "https://uniandes.edu.co/",
+        "startDate": "2022-01-01",
+        "endDate": "2022-12-31",
+        "summary": "Assisted in grading assignments, clarifying students' doubts, and providing supplementary lessons to reinforce understanding of algorithms and data structures. Ensured students grasped problem-solving techniques and algorithmic concepts.",
+        "highlights": [
+          "Algorithm design",
+          "Grading",
+          "Student support",
+          "Teaching"
+        ]
+      },
+      {
+        "name": "Universidad de los Andes",
+        "position": "Secondary Professor - Differential Calculus",
+        "url": "https://uniandes.edu.co/",
+        "startDate": "2024-01-01",
+        "endDate": "2024-06-30",
+        "summary": "Instructed a class of approximately 30 students in Differential Calculus, developing course materials and assessments to enhance understanding and application of key mathematical concepts.",
+        "highlights": [
+          "Course instruction",
+          "Mathematics",
+          "Differential calculus",
+          "Student engagement"
+        ]
+      },
+      {
+        "name": "Robocol - Universidad de los Andes Robotics Group",
+        "position": "Team Member",
+        "url": "https://uniandes.edu.co/",
+        "startDate": "2021-02-01",
+        "endDate": "2022-08-31",
+        "summary": "Worked on image processing algorithms and deep learning models (YOLO, CNNs) for computer vision tasks in the Vision Subsystem. Collaborated on robotics competitions and projects, enhancing teamwork and technical skills.",
+        "highlights": [
+          "Computer vision",
+          "Deep learning",
+          "YOLO",
+          "CNNs",
+          "Robotics",
+          "Team collaboration"
+        ]
+      }
+    ],  
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -45,113 +82,196 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
+    "education": [
+      {
+        "institution": "Universidad de los Andes",
+        "location": "Bogotá, Colombia",
+        "url": "https://uniandes.edu.co/",
+        "area": "Systems Engineering and Computer Science",
+        "studyType": "B.Sc.",
+        "startDate": "2019-08-01",
+        "endDate": "2024-12-31",
+        "courses": [
+          "Machine Learning - Generative Models",
+          "Quantum Computing",
+          "Data Structures and Algorithms",
+          "Algorithm Design and Analysis",
+          "Business Intelligence",
+          "Computing Infrastructure",
+          "Mobile Application Development",
+          "Web Development",
+          "Database Systems"
+        ]
+      },
+      {
+        "institution": "Universidad de los Andes",
+        "location": "Bogotá, Colombia",
+        "url": "https://uniandes.edu.co/",
+        "area": "Mathematics",
+        "studyType": "Bachelor",
+        "startDate": "2020-08-01",
+        "endDate": "2024-12-31",
+        "courses": [
+          "Statistics",
+          "Probability",
+          "Differential Geometry",
+          "Topology",
+          "Mathematical Logic",
+          "Information Theory",
+          "Numerical Analysis",
+          "Theory of Computation",
+          "Pattern Recognition",
+          "Abstract Algebra",
+          "Measure and Integration Theory"
+        ]
+      }
+    ],
+
+"certificates": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
+      "name": "Deep Learning Specialization",
+      "date": "2021",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/29BG43CWQGLD",
+      "icon": "fa-solid fa-graduation-cap"
+    },
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2020",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://www.coursera.org/account/accomplishments/verify/MJTHB8UFV4JR",
+      "icon": "fa-solid fa-laptop-code"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "DeepLearning.AI TensorFlow Developer",
+      "date": "2021",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/professional-cert/UH4U48CCKTR9",
+      "icon": "fa-solid fa-code"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Fundamentals of Deep Learning",
+      "date": "2021",
+      "issuer": "NVIDIA",
+      "url": "https://learn.nvidia.com/certificates?id=b667d77382ea446798dbe0c80e6586e2",
+      "icon": "fa-solid fa-brain"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+      "date": "2021",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/HGYCXB6DEHWW",
+      "icon": "fa-solid fa-sort"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Building Transformer-Based Natural Language Processing Applications",
+      "date": "2021",
+      "issuer": "NVIDIA",
+      "url": "https://learn.nvidia.com/certificates?id=kBZA3qOkRgen54n9bgp2lQ",
+      "icon": "fa-solid fa-language"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Mathematics for Machine Learning",
+      "date": "2021",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/9C8QLQ94W43R",
+      "icon": "fa-solid fa-square-root-alt"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Bridging the Gap in Health Literacy: Harnessing the Power of Large Language Models to Generate Plain Language Summaries from Biomedical Texts",
+      "publisher": "Preprint",
+      "releaseDate": "2024-07-03",
+      "url": "https://www.medrxiv.org/content/10.1101/2024.07.02.24309847v1",
+      "summary": "Health literacy is key to making informed health decisions, but complex medical info can be hard for many to understand. This study found that using NLP and GPT models can help automate the process of creating simpler, easy-to-understand summaries, showing promise for improving health literacy and making healthcare info more accessible to everyone."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+    "skills": [
+      {
+        "name": "Soft Skills",
+        "level": "Advanced",
+        "icon": "fa-solid fa-people-arrows",
+        "keywords": [
+          "Collaborative problem solver",
+          "Effective communicator",
+          "Intellectually curious",
+          "Open-minded",
+          "Eager to learn",
+          "Adaptable to new challenges",
+          "Resourceful",
+          "Teamwork",
+          "Positive attitude"
+        ]
+      },
+      {
+        "name": "Programming Languages",
+        "level": "Proficient",
+        "icon": "fa-solid fa-code",
+        "keywords": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "TypeScript",
+          "Dart",
+          "MATLAB",
+          "C++ (basic)"
+        ]
+      },
+      {
+        "name": "Data Science",
+        "level": "Proficient",
+        "icon": "fa-solid fa-chart-line",
+        "keywords": [
+          "Natural Language Processing",
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Deep Learning",
+          "Statistical Modeling",
+          "Data Collection and Processing",
+          "Variational Inference",
+          "Optimal Transport"
+        ]
+      },
+      {
+        "name": "Software Development",
+        "level": "Proficient",
+        "icon": "fa-solid fa-laptop",
+        "keywords": [
+          "Software Design and Architecture",
+          "Human-Robot Interaction",
+          "Flask",
+          "FastAPI",
+          "React",
+          "Angular",
+          "Svelte",
+          "SQL",
+          "Flutter"
+        ]
+      },
+      {
+        "name": "Programming Tools and Libraries",
+        "level": "Proficient",
+        "icon": "fa-solid fa-tools",
+        "keywords": [
+          "PyTorch",
+          "TensorFlow",
+          "scikit-learn",
+          "Pandas",
+          "NumPy",
+          "OpenCV",
+          "LangChain",
+          "Selenium",
+          "BeautifulSoup",
+          "Docker",
+          "Git",
+          "ROS (Robot Operating System)"
+        ]
+      }
+    ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +283,74 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Mathematics",
+      "icon": "fa-solid fa-square-root-alt",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Statistics",
+        "Optimization",
+        "Variational Inference",
+        "Optimal Transport",
+        "Probability",
+        "Differential Geometry"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Business Intelligence",
+        "Predictive Analytics"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Data Science",
+        "Algorithm Design",
+        "Human-Robot Interaction",
+        "Autonomous Systems"
+      ]
+    },
+    {
+      "name": "Human-Robot Interaction",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Tele-operation",
+        "Interface Design",
+        "Robotics in Healthcare",
+        "LLMs",
+        "ROS",
+        "Autonomous Navigation"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+
+    "references": [
+      {
+        "name": "Professor Rubén Manrique @ Uniandes",
+        "icon": "fa-solid fa-laptop",
+        "reference": "Supervised my thesis in Computer Science, focused on the use of different NLP techniques and LLMs to improve health literacy."
+      },
+      {
+        "name": "Professor Angelique Taylor @ Cornell Tech",
+        "icon": "fa-solid fa-thumbtack",
+        "reference": "Supervisor of my research work at Cornell Tech, focusing on developing interfaces for tele-operating robots in medical environments."
+      },
+      {
+        "name": "Professor Mauricio Junca @ Uniandes",
+        "icon": "fa-solid fa-thumbtack",
+        "reference": "Currently supervising my Mathematics thesis on optimal transport and variational inference."
+      },
+      {
+        "name": "Professor Jorge Duitama @ Uniandes",
+        "icon": "fa-solid fa-thumbtack",
+        "reference": "I was his TA for one year in the Design and Analysis of Algorithms course."
+      }
+    ]  
 }
