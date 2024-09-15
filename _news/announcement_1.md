@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-07-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Preprint](https://www.medrxiv.org/content/10.1101/2024.07.02.24309847v1) about usage of LLMs to improve health literacy 🙂.
