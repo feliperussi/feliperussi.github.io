@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a senior student majoring in Computer Science and Systems Engineering, and Mathematics at Universidad de los Andes. My interests include statistics, optimization, and applying data science, machine learning, or reinforcement learning across various fields, especially in healthcare and human-robot interaction. In Mathematics, I am advised by [Mauricio Junca](https://math.uniandes.edu.co/~mjunca/), working on Variational Inference and Optimal Transport. In Computer Science and Systems Engineering, I am advised by [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique), working on Natural Language Processing applied to biomedical texts, alongside [Carolina Salázar](https://www.linkedin.com/in/carolinasalazarlara/?originalSubdomain=co). I am also working remotely with [Angelique Taylor](https://www.angeliquemtaylor.com/) at Cornell Tech’s [AIRLab](https://sites.coecis.cornell.edu/ataylor/), developing interfaces for tele-operating robots with the goal of using them in medical environments.
+I graduated with majors in Computer Science and Systems Engineering and Mathematics from Universidad de los Andes. My interests include statistics, optimization, and applying data science, machine learning, or reinforcement learning across various fields, especially in healthcare and human-robot interaction. In Mathematics, I was advised by [Mauricio Junca](https://math.uniandes.edu.co/~mjunca/), working on Variational Inference and Optimal Transport. I continue collaborating with [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique) on Natural Language Processing applied to biomedical texts. I am also working remotely with [Angelique Taylor](https://www.angeliquemtaylor.com/) at Cornell Tech's [AIRLab](https://sites.coecis.cornell.edu/ataylor/), developing interfaces for tele-operating robots with the goal of using them in medical environments.
+
+I am actively seeking research opportunities and PhD positions focused on using AI and computational methods for social impact, particularly in areas such as algorithmic fairness, NLP for social good, computational social science, and causal inference. I am interested in developing mathematically rigorous approaches that address challenges in Latin American contexts and vulnerable communities.
 
 
 ### contact & more:
@@ -28,7 +30,7 @@ I am a senior student majoring in Computer Science and Systems Engineering, and 
 **email (personal):** felipea2811 [at] gmail [dot] com
 
 
-* In my free times, I like to watch movies (I will share my Letterboxd some day). 
+* In my free times, I like to watch [movies](https://letterboxd.com/SkyBlue_U/). 
 * My first name is "Andrés" but I prefer my middle name (Felipe).
 * The pronunciation of Felipe is [feˈli.pe]/"fe-lee-pe".
 * My last name is Arias-Russi.

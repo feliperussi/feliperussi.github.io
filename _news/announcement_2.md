@@ -6,4 +6,4 @@ related_posts: false
 
 ---
 
-[Preprint](https://www.medrxiv.org/content/10.1101/2024.07.02.24309847v1) about usage of LLMs to improve health literacy 🙂.
+[Publication for NAACL 2025, CL4Health Workshop](https://aclanthology.org/2025.cl4health-1.23/) about usage of LLMs to improve health literacy 🙂.
