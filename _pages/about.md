@@ -17,9 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I graduated with majors in Computer Science and Systems Engineering and Mathematics from Universidad de los Andes. My interests include statistics, optimization, and applying data science, machine learning, or reinforcement learning across various fields, especially in healthcare and human-robot interaction. In Mathematics, I was advised by [Mauricio Junca](https://math.uniandes.edu.co/~mjunca/), working on Variational Inference and Optimal Transport. I continue collaborating with [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique) on Natural Language Processing applied to biomedical texts. I am also working remotely with [Angelique Taylor](https://www.angeliquemtaylor.com/) at Cornell Tech's [AIRLab](https://sites.coecis.cornell.edu/ataylor/), developing interfaces for tele-operating robots with the goal of using them in medical environments.
+I graduated with dual majors in Computer and Systems Engineering and Mathematics from Universidad de los Andes. My interests include statistics, optimization, and applying data science, machine learning, or reinforcement learning across various fields, especially in healthcare, accessibility, and human-robot interaction.
 
-I am actively seeking research opportunities and PhD positions focused on using AI and computational methods for social impact, particularly in areas such as algorithmic fairness, NLP for social good, computational social science, and causal inference. I am interested in developing mathematically rigorous approaches that address challenges in Latin American contexts and vulnerable communities.
+In Mathematics, I was advised by [Mauricio Junca](https://math.uniandes.edu.co/~mjunca/), working on Variational Inference and Optimal Transport. I continue collaborating with [Rubén Manrique](https://academia.uniandes.edu.co/AcademyCv/rf.manrique) on Natural Language Processing applied to biomedical texts. I also worked with [Angelique Taylor](https://www.angeliquemtaylor.com/) at Cornell Tech's [AIRLab](https://sites.coecis.cornell.edu/ataylor/), developing interfaces for tele-operating robots with the goal of using them in medical environments.
+
+Currently, I am seeking research and PhD opportunities focused on the responsible and socially impactful use of AI, including algorithmic fairness, NLP for social good, computational social science, and causal inference. I am particularly interested in developing mathematically rigorous frameworks and computational methods that address challenges in Latin American contexts and vulnerable communities.
 
 
 ### contact & more:
