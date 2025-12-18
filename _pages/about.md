@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Universidad de los Andes</p>
-    <p>Bogotá D.C., Colombia</p>
+  # more_info: >
+  #   <p>Universidad de los Andes</p>
+  #   <p>Bogotá D.C., Colombia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -33,7 +33,6 @@ Currently, I am seeking research and PhD opportunities focused on the responsibl
 
 
 * In my free times, I like to watch [movies](https://letterboxd.com/SkyBlue_U/). 
-* My first name is "Andrés" but I prefer my middle name (Felipe).
 * The pronunciation of Felipe is [feˈli.pe]/"fe-lee-pe".
 * My last name is Arias-Russi.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2025-10-22
+date: 2025-11-01
 inline: true
 related_posts: false
 ---
-[Accepted work at EMNLP 2025, TSAR Workshop](https://tsar-workshop.github.io) Paper (first author) accepted for presentation at the **[EMNLP 2025](https://2025.emnlp.org)** Workshop on Text Simplification, Accessibility, and Readability (TSAR). Details and publication link will be added once the camera-ready version is available.
+
+[Publication at EMNLP 2025, TSAR Workshop](https://aclanthology.org/2025.tsar-1.6/) *A Multi-Agent Framework with Diagnostic Feedback for Iterative Plain Language Summary Generation from Cochrane Medical Abstracts.* First author. Published in **Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025)** at **EMNLP 2025**, Suzhou, China.

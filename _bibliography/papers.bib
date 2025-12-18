@@ -26,22 +26,85 @@
   selected  = {true}
 }
 
-@misc{penuela2025guidingmultimodallargelanguage,
-  title         = {Guiding Multimodal Large Language Models with Blind and Low Vision People Visual Questions for Proactive Visual Interpretations},
-  author        = {Ricardo Gonzalez Penuela and Felipe Arias-Russi and Victor Capriles},
-  year          = {2025},
-  eprint        = {2510.01576},
-  archiveprefix = {arXiv},
-  primaryclass  = {cs.CV},
-  url           = {https://arxiv.org/abs/2510.01576}
+@inproceedings{arias-russi-etal-2025-multiagent,
+  abbr      = {EMNLP 2025},
+  title     = {A Multi-Agent Framework with Diagnostic Feedback for Iterative Plain Language Summary Generation from Cochrane Medical Abstracts},
+  author    = {Arias Russi, Felipe and
+               Salazar Lara, Carolina and
+               Manrique, Ruben},
+  editor    = {Shardlow, Matthew and
+               Alva-Manchego, Fernando and
+               North, Kai and
+               Stodden, Regina and
+               Saggion, Horacio and
+               Khallaf, Nouran and
+               Hayakawa, Akio},
+  booktitle = {Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025)},
+  month     = nov,
+  year      = {2025},
+  address   = {Suzhou, China},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2025.tsar-1.6/},
+  doi       = {10.18653/v1/2025.tsar-1.6},
+  pages     = {87--104},
+  isbn      = {979-8-89176-176-6},
+  abstract  = {Plain Language Summaries PLS improve health literacy and enable informed healthcare decisions but writing them requires domain expertise and is time-consuming. Automated methods often prioritize efficiency over comprehension and medical documents unique simplification requirements challenge generic solutions. We present a multi-agent system for generating PLS using Cochrane PLS as proof of concept. The system uses specialized agents for information extraction writing diagnosis and evaluation integrating a medical glossary and statistical analyzer to guide revisions. We evaluated three architectural configurations on 100 Cochrane abstracts using six LLMs both proprietary and open-source. Results reveal model-dependent trade-offs between factuality and readability with the multi-agent approach showing improvements for smaller models and providing operational advantages in control and interpretability.},
+  selected  = {true}
 }
 
-@misc{ariasrussi2025cariscontextadaptablerobotinterface,
+@inproceedings{arias-russi-etal-2025-uniandes,
+  abbr      = {EMNLP 2025},
+  title     = {Uniandes at TSAR 2025 Shared Task: Multi-Agent CEFR Text Simplification with Automated Quality Assessment and Iterative Refinement},
+  author    = {Arias Russi, Felipe and
+               Cohen Solano, Kevin and
+               Manrique, Ruben},
+  editor    = {Shardlow, Matthew and
+               Alva-Manchego, Fernando and
+               North, Kai and
+               Stodden, Regina and
+               Saggion, Horacio and
+               Khallaf, Nouran and
+               Hayakawa, Akio},
+  booktitle = {Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025)},
+  month     = nov,
+  year      = {2025},
+  address   = {Suzhou, China},
+  publisher = {Association for Computational Linguistics},
+  url       = {https://aclanthology.org/2025.tsar-1.17/},
+  doi       = {10.18653/v1/2025.tsar-1.17},
+  pages     = {211--216},
+  isbn      = {979-8-89176-176-6},
+  abstract  = {We present an agent-based system for the TSAR 2025 Shared Task on Readability-Controlled Text Simplification, which requires simplifying English paragraphs from B2+ levels to target A2 or B1 levels while preserving meaning. Our approach employs specialized agents for keyword extraction, text generation, and evaluation, coordinated through an iterative refinement loop. The system integrates a CEFR vocabulary classifier, pretrained evaluation models, and few-shot learning from trial data. Through iterative feedback between the evaluator and writer agents, our system automatically refines outputs until they meet both readability and semantic preservation constraints. This architecture achieved 4th position among participating teams, showing the effectiveness of combining specialized LLMs with automated quality control strategies for text simplification.},
+  selected  = {true}
+}
+
+@inproceedings{penuela-etal-2025-guiding,
+  abbr      = {ICCV 2025},
+  title     = {Guiding Multimodal Large Language Models with Blind and Low Vision Visual Questions for Proactive Visual Interpretations},
+  author    = {Penuela, Ricardo Enrique Gonzalez and
+               Arias-Russi, Felipe and
+               Capriles, Victor},
+  booktitle = {CV4A11y Workshop at ICCV 2025},
+  month     = aug,
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=6vk6GpdMOo},
+  arxiv     = {2510.01576},
+  abstract  = {Multimodal large language models (MLLMs) have been integrated into visual interpretation applications to support Blind and Low Vision (BLV) users because of their high accuracy and ability to provide rich, human-like interpretations. However, these applications often default to comprehensive, lengthy descriptions regardless of context. This leads to inefficient exchanges, as users must go through irrelevant details rather than receiving the specific information they are likely to seek. To deliver more contextually-relevant information, we developed a system that draws on historical BLV user questions. When given an image, our system identifies similar past visual contexts from the VizWiz-LF Dataset and uses the associated questions to guide the MLLM generate descriptions more relevant to BLV users. An evaluation with three human labelers who revised 92 context-aware and context-free descriptions showed that context-aware descriptions anticipated and answered users' questions in 76.1% of cases (70 out of 92) and were preferred in 54.4% of comparisons (50 out of 92).},
+  selected  = {true}
+}
+
+@misc{arias-russi-2025-caris,
+  abbr          = {arXiv},
   title         = {CARIS: A Context-Adaptable Robot Interface System for Personalized and Scalable Human-Robot Interaction},
-  author        = {Felipe Arias-Russi and Yuanchen Bai and Angelique Taylor},
+  author        = {Arias-Russi, Felipe and
+                   Bai, Yuanchen and
+                   Taylor, Angelique},
   year          = {2025},
+  month         = aug,
   eprint        = {2509.00660},
   archiveprefix = {arXiv},
   primaryclass  = {cs.RO},
-  url           = {https://arxiv.org/abs/2509.00660}
+  url           = {http://arxiv.org/abs/2509.00660},
+  doi           = {10.48550/arXiv.2509.00660},
+  abstract      = {The human-robot interaction (HRI) field has traditionally used Wizard-of-Oz (WoZ) controlled robots to explore navigation, conversational dynamics, human-in-the-loop interactions, and more to explore appropriate robot behaviors in everyday settings. However, existing WoZ tools are often limited to one context, making them less adaptable across different settings, users, and robotic platforms. To mitigate these issues, we introduce a Context-Adaptable Robot Interface System (CARIS) that combines advanced robotic capabilities such teleoperation, human perception, human-robot dialogue, and multimodal data recording. Through pilot studies, we demonstrate the potential of CARIS to WoZ control a robot in two contexts: 1) mental health companion and as a 2) tour guide. Furthermore, we identified areas of improvement for CARIS, including smoother integration between movement and communication, clearer functionality separation, recommended prompts, and one-click communication options to enhance the usability wizard control of CARIS. This project offers a publicly available, context-adaptable tool for the HRI community, enabling researchers to streamline data-driven approaches to intelligent robot behavior.}
 }
